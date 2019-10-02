@@ -1,0 +1,25 @@
+{
+  "name": "IntroHCI",
+  "version": "0.0.1",
+  "author": "Intro HCI Staff",
+
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "",
+
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.x",
+    "express3-handlebars": "*",
+    "mongodb": "*",
+    "mongoose": "*"
+  },
+  "engines": {
+    "node": "8.9.x"
+  }  
+}
